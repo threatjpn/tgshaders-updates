@@ -3,5 +3,5 @@
 ; release, copy this file to the public repo threatjpn/tgshaders-updates
 ; (main branch, same name): KSM Editor reads it there to tell players an
 ; update is out. notes = one line, shown in the app's banner.
-version = 1.1.0
-notes = Flake sparkle no longer disappears with fine flakes and reaches much further; update notices in KSM Editor.
+version = 1.1.1
+notes = Sharper interior grain (no more mosaic or shimmer), flakes sparkle in the highlight, fixed installer and empty app window, deselect parts.
