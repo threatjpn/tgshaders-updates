@@ -6,7 +6,7 @@ KSM Editor reads `version.txt` from here (at most once a day) and, when it names
 installed, shows players a banner linking to the store.
 
 ```
-version = 1.1.1
+version = 1.1.2
 notes = one line shown in the banner
 ```
 
